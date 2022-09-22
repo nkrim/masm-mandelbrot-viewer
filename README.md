@@ -9,3 +9,7 @@ Supports zooming, panning, adjusting escape iteration count, and changing color 
 Video presentation: https://youtu.be/cNKODLQ0vBc 
 
 ![Preview Image](/mandelbrot-readme-img.png)
+
+How To Build
+---
+TO-DO
